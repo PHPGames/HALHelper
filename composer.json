@@ -1,0 +1,28 @@
+{
+    "name":         "phpgames/hal-helper",
+    "description":  "HAL 9000 Symfony Console Helper",
+    "homepage":     "https://github.com/aferrandini/HALHelper",
+    "keywords":     ["phpgames", "hal", "hal9000", "space odyssey", "symfony", "console", "helper"],
+    "license":      "MIT",
+    "authors": [
+        {
+            "name": "Ariel Ferrandini",
+            "email": "arielferrandini@gmail.com"
+        },
+        {
+            "name": "Eduardo Gulias",
+            "email": "eduardomgulias@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/console": "~2.5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "PHPGames\\": "src/PHPGames"
+        }
+    }
+}
