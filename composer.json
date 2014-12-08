@@ -1,7 +1,7 @@
 {
     "name":         "phpgames/hal-helper",
     "description":  "HAL 9000 Symfony Console Helper",
-    "homepage":     "https://github.com/aferrandini/HALHelper",
+    "homepage":     "https://github.com/PHPGames/HALHelper",
     "keywords":     ["phpgames", "hal", "hal9000", "space odyssey", "symfony", "console", "helper"],
     "license":      "MIT",
     "authors": [
